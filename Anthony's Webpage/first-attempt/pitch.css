@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(86, 85, 38);
+}
+h1{
+    color: #c3cc7e;
+}
+h3{
+    color:#c3cc7e;
+}
+div{
+    color: rgb(255, 255, 255);
+    width: 450px;
+    /*background-color: lightyellow;*/
+}
