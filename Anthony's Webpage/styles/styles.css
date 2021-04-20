@@ -7,6 +7,7 @@
 body {
     margin: auto;
     padding: 5%;
+    width: 100%;
 
     background-color: rgb(235, 123, 123);
     color: navajowhite;
@@ -29,7 +30,7 @@ body {
 header {
     grid-area: header;
     justify-content: center;
-    align-items: center;
+    align-content: center;
 }
 
 header h1 {
@@ -50,6 +51,10 @@ header nav {
 
 .banner-links a {
     text-decoration: none;
+}
+
+main {
+    grid-area: body;
 }
 
 footer {
